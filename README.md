@@ -724,7 +724,7 @@ styles.css
 
 
 
-## HTML VALIDATOR:
+
 
 
 ## RESULT:
