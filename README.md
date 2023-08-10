@@ -716,7 +716,11 @@ styles.css
         }
 
 ## OUTPUT:
-![tanushree contact](https://github.com/Tanug25/softweb/assets/138849166/1f69eabd-e5fb-4d1b-a6dc-0eb5c43d3fff)
+![tanushree contact](https://github.com/Tanug25/softweb/assets/138849166/3efa80eb-9ab7-4988-be1d-e17f542cac33)
+![Tanushree home](https://github.com/Tanug25/softweb/assets/138849166/d2cdb867-9804-4ec3-98e3-0c1b5fe2e340)
+![tanushree people](https://github.com/Tanug25/softweb/assets/138849166/54106c36-fd33-48ab-9994-9746c30b4571)
+![tanushree products](https://github.com/Tanug25/softweb/assets/138849166/3614d60a-ee74-4354-9e20-38be3f771129)
+
 
 
 
